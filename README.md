@@ -1,4 +1,4 @@
-# title-coming-soon
+# Staff list for Forumotion
 ![image](https://github.com/mihaiofficialRO/title-coming-soon/assets/29628232/2c9bbfdb-f612-41d5-bcbd-1a53d7482b99)
 
 <h1>Instalation</h1>
